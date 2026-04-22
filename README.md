@@ -72,6 +72,10 @@
 ![Impacket](https://img.shields.io/badge/-Impacket-000000?style=for-the-badge)
 ![BloodHound](https://img.shields.io/badge/-BloodHound-8B0000?style=for-the-badge)
 ![Responder](https://img.shields.io/badge/-Responder-444444?style=for-the-badge)
+![Mimikatz](https://img.shields.io/badge/-Mimikatz-8B0000?style=for-the-badge)
+![LinPEAS](https://img.shields.io/badge/-LinPEAS-2E8B57?style=for-the-badge)
+![WinPEAS](https://img.shields.io/badge/-WinPEAS-1E90FF?style=for-the-badge)
+![Ligolo-ng](https://img.shields.io/badge/-Ligolo--ng-6A5ACD?style=for-the-badge)
 
 ---
 
