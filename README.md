@@ -37,9 +37,9 @@
 
 ## 📂 Featured Projects
 
-- 🔗 [TryHackMe Writeups](https://github.com/Anub1t/tryhackme-writeups)  
+- 🔗 [TryHackMe Writeups](https://github.com/4nub1t/tryhackme-writeups)  
   → Structured pentesting reports following real methodology
-- 🔗 [WLRecon](https://github.com/Anub1t/WLRecon)  
+- 🔗 [WLRecon](https://github.com/4nub1t/WLRecon)  
   → Custom reconnaissance tool for web enumeration and attack surface discovery
 
 ---
