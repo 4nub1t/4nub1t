@@ -1,5 +1,5 @@
 <h1> Hi there 👋🏻, I'm Luis (a.k.a. 4nub1t)</h1>
-<p align="center">Pentester | Red Teamer | Cybersecurity Consultant</p>
+<p align="center">Pentester | eJPTv2 | OSCP in progress | Web & AD Focus</p>
 
 ---
 
